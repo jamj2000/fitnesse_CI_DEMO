@@ -132,3 +132,5 @@ both Maven Central and JCenter.
    $ ./gradlew release
    ```
 
+---
+Modificado por JAMJ2000 - 21:30 - 18 Noviembre 2017
