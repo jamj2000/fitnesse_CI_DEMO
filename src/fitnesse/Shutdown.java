@@ -83,6 +83,7 @@ public class Shutdown {
     System.err.println("\t-h <hostname> {localhost}");
     System.err.println("\t-p <port number> {" + ContextConfigurator.DEFAULT_PORT + "}");
     System.err.println("\t-c <username> <password> Supply user credentials.  Use when FitNesse has authentication activated.");
+    System.err.println("\n\t  Goodbye! ");
     System.exit(-1);
   }
 }
